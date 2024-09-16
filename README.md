@@ -13,7 +13,7 @@
 
 ## ✒️ II. Documentation
   > [!Important]
-  > For this programming assignment, download the following file and save to your default user folder: http://bit.ly/Cars_file
+  > For this programming assignment, download the following file and save to your default user folder: [cars.csv](cars.csv)
 _______
 ### <b> Problem 1 </b>: [Amboy_Pandas-P1.py](Amboy_Pandas-P1.py)
 
@@ -38,7 +38,7 @@ _______
 #### Output for problem 1
 ![image](https://github.com/user-attachments/assets/c0c14432-bd5f-43e8-96f9-a42e83cbfb64)
 _____
-### <b> Problem 2 </b>: Save your file as Surname_Pandas-P2.py
+### <b> Problem 2 </b>: [Amboy_Pandas-P2.py](Amboy_Pandas-P2.py)
 
   Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations. <br><br>
   &emsp;&emsp;&emsp; a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars. <br>
@@ -102,6 +102,9 @@ _____
 
 ### Executing the program
   * Download the appropriate files / copy the code from this repository.
+    * [Pandas-P1 (Python)](Amboy_Pandas-P1.py)
+    * [Pandas-P2 (Python)](Amboy_Pandas-P2.py)
+    * [Pandas (Jupyter Notebook)](Amboy_Pandas.ipynb)
   * Use the necessary IDE for the appropriate language.
 > [!Important]
 > Make sure to import the pandas library before running the code block.
