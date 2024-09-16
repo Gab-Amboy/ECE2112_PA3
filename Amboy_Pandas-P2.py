@@ -1,17 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # EXPERIMENT 3 - Python Data Analysis
-
+# EXPERIMENT 3 - Python Data Analysis
 # ____________________________________________________________
-# #### Submitted by: John Gabriel Amboy
-# #### Submitted on: September 16, 2024
+# Submitted by: John Gabriel Amboy
+# Submitted on: September 16, 2024
 # ____________________________________________________________
 
-# ### PROBLEM 2
-
-# In[17]:
-
+# PROBLEM 2
 
 import pandas as pd
 
@@ -36,4 +29,3 @@ cars_cyl_gear = cars.loc[(cars['Model']=='Mazda RX4 Wag')|
                 (cars['Model']=='Honda Civic'),
                 ['Model','cyl','gear']]
 print(cars_cyl_gear)
-
