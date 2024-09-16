@@ -110,3 +110,5 @@ _____
 ## ⏳ IV. Version History
   * 0.1
     * Added Readme.md file
+  * 0.2
+    * Cleaning up and removing unnecessary spaces
