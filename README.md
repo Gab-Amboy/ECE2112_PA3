@@ -5,7 +5,6 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <b> Date Submitted: </b> Sept. 16, 2024 <br>
   <b> Section: </b> 2ECE-A
 
